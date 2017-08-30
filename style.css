@@ -1,0 +1,53 @@
+<style>
+body {
+      position: relative;
+  }
+
+p {
+  font-size: 17px
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: gold;
+}
+
+ #section1 {padding-top:50px;height:500px;color: #000000; background-color: #ffff00; height: auto;}
+
+#section {padding-top:50px;height:500px;color: #FFFFFF;background-color: #000000}
+
+#section3 {padding-top:50px;height:500px;color: #000000;background-color: #ffff00;}
+
+.blackbackground {
+  background-color: black;
+  color: #FFD700;
+}
+
+a:active, a:hover {
+ color: gold!important;
+}
+
+#lightbox .modal-content {
+  display: inline-block;
+  text-align: center;
+}
+
+#lightbox .close {
+  opacity: 1;
+  color: rgb(255, 255, 255);
+  background-color: rgb(25, 25, 25);
+  padding: 5px 8px;
+  border-radius: 30px;
+  border: 2px solid rgb(255, 255, 255);
+  position: absolute;
+  top: -15px;
+  right: -55px;
+  z-index: 1032;
+}
+.goldcolor {
+  fullportfolio: gold;
+  upcomingproject: #FFD700;   
+}
+
+.footer {
+  color: #ccc;
+}
+</style>
